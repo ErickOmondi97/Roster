@@ -6,3 +6,5 @@ ArrayList<ArrayList<String>> roster = new ArrayList<ArrayList<String>>(days);
 
   //each sub ArrayList
 ArrayList <String> day1 = new ArrayList<>();
+ArrayList <String> day2 = new ArrayList<>();
+ArrayList <String> day3 = new ArrayList<>();
