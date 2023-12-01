@@ -14,5 +14,4 @@ public static void main(String[] args){
   day1.add("Milani");
   day2.add("Amor");
   day3.add("Erick");
-  day4.add("Omondi");
 }
